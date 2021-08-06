@@ -8,8 +8,8 @@ This app will enhance engagement between learners, parents and teachers. Parents
 
 
 Team Members
-Thokozani Ledwaba
-Bongani Hlatshwayo
-Mpho Shaba
-Masedi Malatji
+Thokozani Ledwaba,
+Bongani Hlatshwayo,
+Mpho Shaba,
+Masedi Malatji.
 
